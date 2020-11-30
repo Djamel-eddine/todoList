@@ -1,0 +1,19 @@
+.inputs-container {
+  display: -ms-grid;
+  display: grid;
+  -ms-grid-columns: 1fr;
+      grid-template-columns: 1fr;
+}
+
+.inputs-container h2 {
+  background-color: gray;
+  padding-left: 20px;
+}
+
+.inputs-container form {
+  display: -ms-grid;
+  display: grid;
+  -ms-grid-columns: 1fr;
+      grid-template-columns: 1fr;
+  margin: 2px 20px;
+}

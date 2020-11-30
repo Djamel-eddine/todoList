@@ -1,0 +1,13 @@
+.inputs-container {
+  display: grid;
+  grid-template-columns: 1fr;
+  h2 {
+    background-color: gray;
+    padding-left: 20px;
+  }
+  form {
+    display: grid;
+    grid-template-columns: 1fr;
+    margin: 2px 20px;
+  }
+}
